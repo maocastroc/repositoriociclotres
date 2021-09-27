@@ -1,0 +1,12 @@
+#nav_drawer {
+    width: 70px;
+    height: 100%;
+    background-color: aquamarine;
+    float:right;
+}
+#logo_navbar {
+    width: 70px;
+}
+#buttonreg_nav {
+    color: blue;
+}
